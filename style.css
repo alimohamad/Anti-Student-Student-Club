@@ -1,0 +1,32 @@
+body{
+    
+    background-color: black;
+    text-align: center;
+    
+}
+
+h1, h2, h3, h4, h5, a{
+    
+    font-family: 'Helvetica', sans-serif;
+}
+
+.navbar{
+
+    background-color: transparent;
+    
+}
+
+.navbar a{
+    color: white;
+}
+
+.header{
+    
+    background-color: black;
+    height: 100%;
+}
+
+.logo{
+    padding-top: 12.5%;
+    height: 75%;
+}
