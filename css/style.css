@@ -49,11 +49,12 @@ h1, h2, h3, h4, h5, a{
         
         overflow-x: hidden;
         text-align: center;
-        width: inherit;
+        width: auto;
     }
     
     .logo{
         padding-top: 25%;
+        padding-right: 25%;
         height: 80%;
     }
     
