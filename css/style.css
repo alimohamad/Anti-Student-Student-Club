@@ -42,38 +42,6 @@ h1, h2, h3, h4, h5, a{
     height: 75%;
 }
 
-/*Mobile - iPhone*/
-
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
-      
-    body{
-        
-        overflow-x: hidden;
-        text-align: center;
-        width: 100%;
-    }
-    
-    .logo{
-
-        padding-top: 25%;
-        display: block;
-        height: 50%;
-    }
-    
-    .header{
-        
-        width: auto;
-        
-    }
-    
-    .navbar a{
-        
-        font-size: 50px;
-    }
-
-
-}
-
 /*Mobile - Large Phones*/
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px){
@@ -89,7 +57,7 @@ h1, h2, h3, h4, h5, a{
 
         padding-top: 25%;
         display: block;
-        height: 90%;
+        height: 320px;
     }
     
     .navbar a{
